@@ -1,0 +1,16 @@
+{
+    "network": [
+        "mainnet20",
+        "devnet38",
+        "canary1",
+        "sandbox1",
+        "benchnet1"
+    ],
+    "role": [
+        "access",
+        "execution",
+        "collection",
+        "consensus",
+        "verification"
+    ]
+}
